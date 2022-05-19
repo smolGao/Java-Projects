@@ -5,4 +5,4 @@ The Java source codes in this repository are not fully original. They reference 
 Snake Game  
 Bro Code, https://youtu.be/bI6e6qjJ8JQ
 
-**Disclaimer**: If this repository infringes any of your rights, please contacts and I will reply within couple days. 
+**Disclaimer**: The repository is for learning purpose only. If this repository infringes any of your rights, please contacts and I will reply within couple days. 
