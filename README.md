@@ -1,4 +1,4 @@
-# Java-Tutorials-Practices
+# Java-Tutorials-Projects
 The Java source codes in this repository are not fully original. They reference different tutorials as practical projects for people to follow along and understand the code. I mainly followed the code, made minor changes and provided comments on each of them. 
 
 ## Reference 
