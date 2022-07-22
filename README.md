@@ -1,5 +1,5 @@
 # Java-Projects
-The Java source codes in this repository are not fully original. They reference different tutorials as practical projects for people to follow along and understand the code. I did followe the code, make changes and provide comments on each of them. 
+The Java source codes in this repository are not completely original. They reference different tutorials for people to follow along, practice, and understand the code. There are changes and comments to make the code more comprehensible. 
 
 ## Reference 
 Snake Game  
